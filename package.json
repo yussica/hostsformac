@@ -1,0 +1,23 @@
+{
+  "name": "hostsformac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yussica/hostsformac.git"
+  },
+  "author": "yussica",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yussica/hostsformac/issues"
+  },
+  "homepage": "https://github.com/yussica/hostsformac#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0"
+  }
+}
